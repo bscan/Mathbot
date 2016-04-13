@@ -1,0 +1,8 @@
+{
+  "name": "Mathbot",
+  "description": "A Facebook Messenger app for math calculations",
+  "repository": "https://github.com/bscan",
+  "logo": "",
+  "keywords": ["math", "facebook", "messenger"],
+  "image": ""
+}
