@@ -2,7 +2,7 @@ Mathbot
 =============
 Simple Math Bot for Facebook Messenger Platform. This use mathjs to provide a calculator-like platform on Facebook Messenger Platform.
 
-This can be used as a mathbot, or as a template for running a Messenger app using Heroku.
+This can be used as a mathbot, or as a template for running a Messenger app.
 
 Usage
 -------
